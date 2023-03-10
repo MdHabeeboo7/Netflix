@@ -4,7 +4,7 @@ const  Cdata = [{
     src : "https://occ-0-2482-3647.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABWKaEkiJxJocWZMpTfhUHiz10Vt6U2IoG2naA5il8WE_7ttmQ78MtjGa5D9VyyVEsZiQbxodNvs5MUEZaRRvCuDnzzK03MHMddmNVDm_eqGlURv633nrL51_Km3Hk5RwbFutzSNhCpyHTWw3o9rlMsSYzGSCNI4AXqw.jpg?r=be4"
 },
 {
-    src : "https://occ-0-2482-3647.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABawxjB6VMgpd8k7QA_fTNpm73FccRH9yHWQ0LMGlD71OqScQdnF6wAPHBvQHVaV2VOZdxw5rlVowtxpjI48wr1r-nMZ-6-PyfQM.jpg?r=d74"
+    src : "https://occ-0-4994-2164.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABcOWafQ-HQuBc320ieoASrQ5bcUkz6gIKqUYPcnuPhDPhs0tUv9ughKEjI_GxuL4H-fTncwapAoEEqf3syNN70LGL5dHL9IaiYw.jpg?r=81c"
 },
 {
     src : "https://occ-0-2482-3647.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABZUlGmNU_IAxZIGr9lkbtSVQwiOxsjp16ureGTI8cUGIkAbFfm4S1tTH9r4OAO08HYE3JULx4LbhfSbPc6qO8BOxmq1WSuFcr2KA1rKu30_6Brxta_lBGIBNVonh-Vyc4Kx1aXNfDUW_V8KUXJWd-JUz1XUrFSfQuIo.jpg?r=b36"
